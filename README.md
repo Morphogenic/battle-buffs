@@ -3,4 +3,4 @@ battle-buffs
 
 Battle buffs for Minecraft
 
-Beginning of trying to code some interestin plugig.
+Beginning of trying to code useles interesting plugin.
